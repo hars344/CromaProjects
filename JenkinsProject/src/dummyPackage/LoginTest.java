@@ -24,4 +24,9 @@ public void testcase4()
 {
 	System.out.println("This is my first testcase4");
 }
+@Test
+public void testcase5()
+{
+	System.out.println("This is my first testcase5");
+}
 }
