@@ -19,5 +19,9 @@ public void testcase3()
 {
 	System.out.println("This is my first testcase3");
 }
-
+@Test
+public void testcase4()
+{
+	System.out.println("This is my first testcase4");
+}
 }
