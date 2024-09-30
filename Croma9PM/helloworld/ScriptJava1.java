@@ -1,4 +1,4 @@
-package src.helloworld;
+package helloworld;
 
 public class ScriptJava1 {
 
