@@ -1,11 +1,10 @@
 package src.helloworld;
 
-public class ScriptJava {
+public class ScriptJava1 {
 
 	public static void main(String[] args) 
 	{
-	System.out.println("Java Wolrd");
-
+	System.out.println("JavaWorld");
 	}
 
 }
